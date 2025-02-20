@@ -1,4 +1,16 @@
 {
     "ServerKind": 0,
     "OrganizationName": "Xiaofan669"
+    "ClassPlanSource": {
+        "Value": "https://raw.githubusercontent.com/xiaofan663689/Fan-sz/master/classplans.json",
+        "Version": 1
+    },
+    "TimeLayoutSource": {
+        "Value": "https://raw.githubusercontent.com/xiaofan663689/Fan-sz/master/timelayouts.json",
+        "Version": 1
+    },
+    "SubjectsSource": {
+        "Value": "https://raw.githubusercontent.com/xiaofan663689/Fan-sz/master/subjects.json",
+        "Version": 1
+    }
 }
